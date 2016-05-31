@@ -38,7 +38,6 @@
 		182AE47C1A3B5E2C00F8F009 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		182AE47D1A3B5E2C00F8F009 /* DebuggingProjectAdvancedTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DebuggingProjectAdvancedTests.swift; sourceTree = "<group>"; };
 		182AE4871A3B5E6F00F8F009 /* GameModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameModel.swift; sourceTree = "<group>"; };
-		182AE4891A3B721B00F8F009 /* readme.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,7 +61,6 @@
 		182AE4591A3B5E2C00F8F009 = {
 			isa = PBXGroup;
 			children = (
-				182AE4891A3B721B00F8F009 /* readme.md */,
 				182AE4641A3B5E2C00F8F009 /* DebuggingProjectAdvanced */,
 				182AE47A1A3B5E2C00F8F009 /* DebuggingProjectAdvancedTests */,
 				182AE4631A3B5E2C00F8F009 /* Products */,

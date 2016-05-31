@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  DebuggingProjectAdvanced
 //
-//  Created by Thinkful on 12/12/2014.
-//  Copyright (c) 2014 Thinkful. All rights reserved.
+//  Created by Brendan Stang on 5/19/16.
+//  Copyright © 2016 Brendan Stang. All rights reserved.
 //
 
 import UIKit
